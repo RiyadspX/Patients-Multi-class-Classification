@@ -1,0 +1,9 @@
+[2025-01-27 18:04:14,999] 115 root - INFO - Read train and test data completed
+[2025-01-27 18:04:15,002] 133 root - INFO - Split the trainning and testing vectors (X, Y) completed
+[2025-01-27 18:04:15,004] 143 root - INFO - Split the numerical and categorical Datasets (X_num, X_cat) for train and test completed
+[2025-01-27 18:04:15,234] 150 root - INFO - Imputing both numerical and categorical data completed
+[2025-01-27 18:04:15,234] 152 root - INFO - Getting into Feature Engineering
+[2025-01-27 18:04:15,261] 158 root - INFO - Categorical Features encoding completed
+[2025-01-27 18:04:15,263] 162 root - INFO - Target encoding completed
+[2025-01-27 18:04:15,274] 166 root - INFO - Scaling numerical features completed
+[2025-01-27 18:04:15,279] 170 root - INFO - Final concatenation completed
