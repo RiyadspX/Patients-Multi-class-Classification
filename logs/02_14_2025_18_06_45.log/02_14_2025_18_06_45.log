@@ -1,0 +1,6 @@
+[2025-02-14 18:06:45,258] 200 root - INFO - loading data completed
+[2025-02-14 18:06:45,267] 203 root - INFO - Read Data completed
+[2025-02-14 18:06:45,268] 218 root - INFO - Splitting into features and target completed
+[2025-02-14 18:06:45,281] 229 root - INFO - Splitting into features and target completed
+[2025-02-14 18:06:45,283] 242 root - INFO - Splitting Features into numerical and categorical completed
+[2025-02-14 18:06:45,490] 252 root - INFO - Imputation completed

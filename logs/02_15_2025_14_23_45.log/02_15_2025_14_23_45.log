@@ -1,0 +1,12 @@
+[2025-02-15 14:23:45,919] 203 root - INFO - loading data completed
+[2025-02-15 14:23:45,927] 206 root - INFO - Read Data completed
+[2025-02-15 14:23:45,929] 221 root - INFO - Splitting into features and target completed
+[2025-02-15 14:23:45,942] 232 root - INFO - Splitting into features and target completed
+[2025-02-15 14:23:45,945] 245 root - INFO - Splitting Features into numerical and categorical completed
+[2025-02-15 14:23:46,192] 255 root - INFO - Imputation completed
+[2025-02-15 14:23:46,292] 265 root - INFO - Features encoding completed
+[2025-02-15 14:23:46,294] 270 root - INFO - Target encoding completed
+[2025-02-15 14:23:46,299] 275 root - INFO - Feature engineering completed
+[2025-02-15 14:23:46,325] 280 root - INFO - Scaling completed
+[2025-02-15 14:23:46,336] 286 root - INFO - Final concatenation completed
+[2025-02-15 14:23:46,337] 291 root - INFO - Data transformation completed for both train and test set
